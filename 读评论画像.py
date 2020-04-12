@@ -1,3 +1,8 @@
+"""
+ * @author        教室工作室 馆长
+ * @date          2020/4/12
+ * @version       1.0
+"""
 # requests.get示例
 import requests
 import re, random
